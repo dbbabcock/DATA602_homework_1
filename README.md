@@ -20,5 +20,24 @@ This dataset contains information on 1338 medical visits made by individual clie
 
 The features are relatively limited, and other information about conditions the clients suffer from (heart disease, diabetes, etc.), repeat visits, medications, etc. would be useful but are not presently available. For now, the company hopes to demonstrate that this data could prove useful to the future of the company and that analyzing it is a worthwhile endeavor.
 
+<h1>Dataset Used:</h1>
 
-    
+https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv
+
+(Note: This is simulated data for practicing with)
+
+<h1>Begin with data cleaning in this notebook:</h1>
+
+https://github.com/dbbabcock/DATA602_homework_1/blob/master/ins_data_cleaning.ipynb
+
+<h1>Continue with EDA in this notebook:</h1>
+
+https://github.com/dbbabcock/DATA602_homework_1/blob/master/ins_data_eda.ipynb
+
+<h1>Construct the linear regression model in this notebook:</h1>
+
+https://github.com/dbbabcock/DATA602_homework_1/blob/master/linear_analysis.ipynb
+
+<h1>Final report of findings here:</h1>
+
+https://github.com/dbbabcock/DATA602_homework_1/blob/master/final_report.ipynb
