@@ -1,6 +1,6 @@
 # DATA602_homework_1
 
-<h1>Medical Charges Scenario:
+<h1>Medical Charges Scenario:</h1>
 
 Mundler Difflin Insurance Co. wants to know which features about their clients are most likely to increase the medical charges that they are billed and if it's possible to predict future charges based on this initial dataset. If so, it would be worthwhile for the company to put more resources into machine learning models in order to save money for both the company and their clients.
 
