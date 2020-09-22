@@ -29,10 +29,10 @@ https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.
 <h1>Packages and Versions Used:</h1>
 
 Pandas version used: 1.0.5
-Matplotlib version used: 3.2.2
-Seaborn version used: 0.10.1
-Statsmodels version used: 0.11.1
-Scikit-learn version used: 0.23.1
+<br>Matplotlib version used: 3.2.2
+<br>Seaborn version used: 0.10.1
+<br>Statsmodels version used: 0.11.1
+<br>Scikit-learn version used: 0.23.1
 
 <h1>Begin with data cleaning in this notebook:</h1>
 
